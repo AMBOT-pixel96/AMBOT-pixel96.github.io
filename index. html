@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Amlan Mishra | HR Tech Portfolio</title>
+  
+  <!-- Open Graph Meta (for LinkedIn/Twitter/Slack) -->
+  <meta property="og:title" content="Amlan Mishra | HR Tech Portfolio">
+  <meta property="og:description" content="Descriptive & Predictive Attrition Models, HR Dashboards, Automated PDF Reports & More">
+  <meta property="og:image" content="https://raw.githubusercontent.com/AMBOT-pixel96/hr-tech-portfolio/main/image-1.png">
+  <meta property="og:url" content="https://ambot-pixel96.github.io">
+  <meta name="twitter:card" content="summary_large_image">
+  
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9fafb;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    .container {
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 20px;
+    }
+    img {
+      width: 100%;
+      border-radius: 12px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    }
+    h1 {
+      margin-top: 20px;
+      font-size: 2em;
+      color: #111827;
+    }
+    p {
+      font-size: 1.1em;
+      color: #374151;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #2563eb;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+    a.button:hover {
+      background: #1e40af;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://raw.githubusercontent.com/AMBOT-pixel96/hr-tech-portfolio/main/image-1.png" alt="Portfolio Banner">
+    <h1>HR Tech Portfolio</h1>
+    <p>By Amlan Mishra — Assistant Manager | C&B & HR Tech | KPMG</p>
+    <p>Descriptive & Predictive Attrition Models, HR Dashboards, Automated PDF Reports & More.</p>
+    <a class="button" href="https://github.com/AMBOT-pixel96/hr-tech-portfolio" target="_blank">View Projects on GitHub</a>
+  </div>
+</body>
+</html>
